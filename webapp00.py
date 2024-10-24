@@ -18,5 +18,5 @@ import streamlit as st
 col1, col2, col3 = st.columns(3)
 
 with col1:
-    st.header("A cat")
+    st.header("Bugatti Chiron")
     st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR63Xd7XIGAadQMMQxl-9ULgeHaf_WJCN5o4Q&s")
