@@ -11,7 +11,7 @@ st.header("Idolo do Anchieta")
 st.subheader("Veio do Mato Grosso pra fazer historia")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
+st.write("Sabe muito!")
 
 import streamlit as st
 
